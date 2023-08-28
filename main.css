@@ -1,0 +1,47 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#cabecalho {
+  font-family: "Roboto", sans-serif;
+  background-color: #070f79;
+}
+.nav-link {
+  color: #fff;
+}
+.section-title {
+  font-family: "Arvo", serif;
+}
+.navbar-brand,
+.navbar-brand:hover {
+  color: #fff;
+}
+
+.navbar-toggler {
+  background-color: #fff;
+}
+
+#cabecalho .nav .nav-link.active {
+  background-color: #fff;
+  color: #070f79;
+}
+
+.text-colored,
+.nav-ofertas .nav-link,
+.nav-ofertas .nav-link:hover {
+  color: #070f79;
+}
+.nav-ofertas .nav-link.active,
+#fale-conosco button {
+  background-color: #070f79;
+  color: #fff;
+}
+
+.social-links li {
+  list-style: none;
+  display: inline;
+}
+
+.social-links a {
+  text-decoration: none;
+}
